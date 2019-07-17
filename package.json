@@ -1,0 +1,31 @@
+{
+    "name": "sticker_request",
+    "version": "1.0.0",
+    "description": "Request stickers",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ClaireBookworm/sticker-request.git"
+    },
+    "keywords": [
+      "slack",
+      "bot"
+    ],
+    "author": "ClaireBookworm",
+    "bugs": {
+      "url": "https://github.com/ClaireBookworm/sticker-request.git"
+    },
+    "homepage": "https://github.com/ClaireBookworm/sticker-request.git#readme.md",
+    "engines": {
+      "node": "5.1.1"
+    },
+    "dependencies": {
+      "botkit": "0.2.2",
+      "botkit-storage-mongo": "^1.0.2",
+      "mongodb": "^1.4.39"
+    }
+  }
