@@ -41,6 +41,6 @@ controller.hears('/sticker', function(bot, message) {
     bot.reply(message, "What sticker do you want?")
 })
 
-//xoxb-2210535565-686278744850-ZlHdMNuRIpryWZYjsmlTTkqo
+//
 //https://stickerbot.localtunnel.me
 //lt --port 1234 --subdomain stickerbot
